@@ -34,7 +34,7 @@ const Landing = () => {
                 </div>
             </div>
 
-            <footer className="footer-custom text-white py-3 px-4 d-flex justify-content-between align-items-center">
+            <footer className="footer-custom text-white py-3 px-100 d-flex justify-content-between align-items-center">
                 <small className="mb-0 fs-14">© Rehan Raihan - 2023</small>
                 <div className="d-flex gap-4">
                     <a href="#" className="text-white text-decoration-none fs-14w4">Dribbble</a>
