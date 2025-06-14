@@ -73,6 +73,11 @@ body {
     padding-left: 32px;
 }
 
+.px-100{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 .mt-2rem {
     margin-top: 0.8rem;
 }
@@ -111,7 +116,6 @@ font-weight: 400;
 font-size: 14px;
 line-height: 20px;
 letter-spacing: 0%;
-
 }
 
 .fs-16 {
