@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+    background-color: #010208;
+    min-width: 320px !important;
+    min-height: 100vh !important;
+}
+
+.navbar {
+    flex-wrap: nowrap !important;
+}
+
+.navbar-nav {
+    flex-direction: row !important;
+}
+
+.navbar .logo {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.navbar .nav-link {
+    color: white !important;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+    background-color: #333;
+}
+
+.navbar .nav-link.active {
+    background-color: white;
+    color: black !important;
+}
+
+.navbar .btn {
+    margin-left: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.p-nav {
+    padding: 36px 100px;
+}
+
+.p-hero {
+    padding: 176px 100px;
+}
+
+.p-exp {
+    padding: 100px 64px;
+}
+
+.p-32 {
+    padding: 32px;
+}
+
+.p-8 {
+    padding: 8px;
+}
+
+.pt-112 {
+    padding-top: 112px;
+}
+
+.pt-32 {
+    padding-top: 32px;
+}
+
+.ps-32 {
+    padding-left: 32px;
+}
+
+.mt-2rem {
+    margin-top: 0.8rem;
+}
+
+.fs-12 {
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+
+}
+
+.fs-14 {
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+}
+
+.fs14 {
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0%;
+
+}
+
+.fs-14w4{
+    font-family: Syne;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0%;
+
+}
+
+.fs-16 {
+    font-family: Syne;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0%;
+}
+
+.fs-32 {
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0%;
+
+}
+
+.fs-64 {
+    font-family: Syne;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 80px;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+}
+
+.fs-16Reg {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.fs-18 {
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.fs18 {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.fs-40 {
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.fs-40W7 {
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.fs-24 {
+    font-family: Syne;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+
+.text-gray {
+    color: #CBCBCB;
+}
+
+.bg-gray {
+    background: #CBCBCB7A;
+}
+
+.radius-40 {
+    border-radius: 40px;
+}
+
+.text-break {
+    word-wrap: break-word;
+}
