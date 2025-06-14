@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -13,4 +13,31 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
 # Creatiwise-website
->>>>>>> d6d87be0c14ec08ea1c99019e7e334e7e7c562de
+
+## 🛠 Tech Stack
+
+- React.js
+- HTML5 / CSS3
+- Bootstrap 5
+- External custom CSS
+
+  ## 📁 Folder Structure
+
+- src/
+├── assets/ # All images, icons, and media
+├── components/ # Reusable React components
+├── styles/ # All custom CSS files
+│ ├── style.css # Main styles (customized)
+│ ├── App.css # App-level styles
+│ └── index.css # Global styles
+├── App.jsx # Root component
+├── main.jsx # App entry point (React 18+)
+└── index.css # Default index styles
+
+###  Clone the Repository
+
+```bash
+git clone https://github.com/SunithaHR/Creatiwise-website.git
+cd Creatiwise-website
+
+
